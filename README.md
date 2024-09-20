@@ -1,4 +1,5 @@
 Expense Tracker in C++
+
 An easy-to-use Expense Tracker application written in C++ that helps you manage your daily expenses. It allows you to add, view, and calculate total expenses, storing data persistently in a text file (expenses.txt).
 
  
